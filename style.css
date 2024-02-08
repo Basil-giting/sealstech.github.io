@@ -1,13 +1,11 @@
-@root {
-  --background-color: black;
+body{
+  background-color: black;
 }
 p{
   font-family: Arial,sans-serif;
-  font-color: white;
-  background-color: white;
+  color: white;
 }
 h1{
   font-family: Arial,sans-serif;
-  font-color: white;
-  background-color: white;
+  color: white;
 }
