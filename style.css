@@ -1,6 +1,6 @@
-body{
-  background-color: black;
-    }
+@root {
+  --background-color: black;
+}
 p{
    font-family: Arial,sans-serif;
   font-color: white;
